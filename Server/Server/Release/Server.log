@@ -1,0 +1,18 @@
+﻿  Server.cpp
+E:\Курсовой проект\Server\Server\Server.cpp(374,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(425,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(446,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(488,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(497,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(506,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(517,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(566,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(590,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Курсовой проект\Server\Server\Server.cpp(603,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Курсовой проект\Server\Server\Server.cpp(604,20): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Курсовой проект\Server\Server\Server.cpp(660,27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 435 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Server.vcxproj -> E:\Курсовой проект\Server\Release\Server.exe
